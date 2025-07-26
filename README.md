@@ -1334,11 +1334,19 @@ December 15th, 1791 “Bill of Rights Day”
 10.
 ——
 web 5 (2nd layer of BTC Blockchain, communicable with DWNs)
+
 3/ ipfs://
+
 5 DWNs (Decentralized Web Nodes): mesh datastore, with decentralized server, “decentralized identity”
+
 DIDs (Decentralized Identifier):
+
 self-sovereign identity certificate
+
 (SSIS) Self-Sovereign Identity Services
+
 The ability to include a Tesla ASIC/Node within a Tesla vehicle?
+
 Research into official Bitcoin/Blockchain flag (?)
+
 Blockchain “flag/symbol” (?)
