@@ -147,13 +147,18 @@ Satoshi Nakamoto (Brock Angelle Thibodeaux)
 —- In terms of a Gold Coin for Code Talkers-like approach, so to speak, the $1 Gold Native American Year 2000 Sacagawea coin could be used for Reservation-type approach(es) as well (?)
 — Propose Louisiana as a first-use, test-case type scenario?
 — Mainly because of 1998 State of Louisiana Quarter symbolism?
-- English Thesis (2013, 2019)
-— Black Swans and Online Physical Landscapes, Modalities
+- English Theses, presented dates (both unfinished, unpublished)
+-        (UL-Lafayette NOV '13 [Class of '14], Harvard late Q4 '19)
+— Notes from aforementioned theses:
+- Black Swans and Online Physical Landscapes, Modalities
 — Anonymity and Postmodernism in Contemporary Culture(s) as (Has) Stemmed from Everything Post-"Infinite Jest"
 — Transparent Torrification
 — A precursor to What Is To Come for Online Activities
-— Schim Unavoidable: Dual Identities of Self in Contemporary Online/Social-Media Landscape(s)
+— Schism Unavoidable: Dual Identities of Self in Contemporary Online/Social-Media Landscape(s)
 — Reactions to and Landscapes (etc.) of DarkWeb/Deepweb Presence(s)/Research As It Pertains To....
+End notes from aforementioned theses
+
+
 - QNN Transparent Torrification via Qubit-like…
 - "The 1D" Quantum Natural Language Processing
 - A path on the plain - speech = one-dimensional, environment = two-dimensional
