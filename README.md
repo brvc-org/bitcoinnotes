@@ -4,9 +4,7 @@ Typed on a Nakajima WPT-150 Electronic Typewriter and then transferred to Google
 
 Bitcoin Notes
 
-Satoshi Nakamoto
-
-(Brock Angelle Thibodeaux)
+Satoshi Nakamoto (Brock Angelle Thibodeaux)
 
 
 
