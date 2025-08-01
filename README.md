@@ -1099,10 +1099,6 @@ _________________ |
 - GOOGLE GLASS 2049 BUFFER OVERFLOW
 - XVII does not equal City 17
 - Half-Life: 2 Leak: A Christmas Miracle… An ASCII/Valve Phantasmagorical Ultra-Failure-Win Special Edition – VAC-Approved Super Secret Collectible
-- Green (1998-2001)
-- Black (2001-2005)(2008)
-- The “Fuck You” Period, Respectively (2006-2010)
-- Late Yellow Hue Period (2011-2017)
 - Satoshi Ulysses Nakamoto (SUN)
 - 2004: April
 Two (2) Abstract Paintings
